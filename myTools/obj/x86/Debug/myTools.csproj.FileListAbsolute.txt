@@ -1,0 +1,16 @@
+E:\C#\myTools\myTools\bin\Debug\myTools.exe
+E:\C#\myTools\myTools\bin\Debug\myTools.pdb
+E:\C#\myTools\myTools\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#\myTools\myTools\obj\x86\Debug\myTools.Form1.resources
+E:\C#\myTools\myTools\obj\x86\Debug\myTools.Properties.Resources.resources
+E:\C#\myTools\myTools\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\C#\myTools\myTools\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\C#\myTools\myTools\obj\x86\Debug\myTools.exe
+E:\C#\myTools\myTools\obj\x86\Debug\myTools.pdb
+E:\C#\系统小工具\myTools\bin\Debug\系统工具箱.exe
+E:\C#\系统小工具\myTools\bin\Debug\系统工具箱.pdb
+E:\C#\系统小工具\myTools\obj\x86\Debug\myTools.Form1.resources
+E:\C#\系统小工具\myTools\obj\x86\Debug\myTools.Properties.Resources.resources
+E:\C#\系统小工具\myTools\obj\x86\Debug\myTools.csproj.GenerateResource.Cache
+E:\C#\系统小工具\myTools\obj\x86\Debug\系统工具箱.exe
+E:\C#\系统小工具\myTools\obj\x86\Debug\系统工具箱.pdb
